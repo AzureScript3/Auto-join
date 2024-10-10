@@ -13,14 +13,3 @@ ChannelId = "Put Channel ID!"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AzureScript3/Auto-join/main/auto-joiner",true))()
 ```
-
-## IF YOU THINK THIS IS IS TOKEN LOGGER JUST USE THIS SCRIPT
-```lua
-hookfunction(request, function()
-  return
-end)
-```
-or
-```lua
-request = function() end
-```
